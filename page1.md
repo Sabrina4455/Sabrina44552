@@ -10,7 +10,7 @@ Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am maj
 
 ## Vector Images 
 
-Something I learned this year was what a vector image is.
+Something I learned this year was the difference between a vector image and a raster image.
 
 **Here is an example of a vector image vs a raster image:**
 
