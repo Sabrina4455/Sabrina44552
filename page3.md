@@ -12,4 +12,4 @@ I have been on 34 cruises in my life. My favorite cruise line is Disney Cruise L
 
 ![Alt Text](https://user-images.githubusercontent.com/89413296/138399608-d76c0827-c2cd-4cec-925c-1a5069f221d6.png)
 
-[Homepage](README.md) [Page 1](page#1.md) [Page 2](page#2.md) [Page 3](page#3.md) [Page 4](page#4.md)
+[Homepage](README.md) [Page 1](page1.md) [Page 2](page2.md) [Page 3](page3.md) [Page 4](page4.md)
