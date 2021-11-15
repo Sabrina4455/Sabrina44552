@@ -1,13 +1,13 @@
 # About Me
 
 ## School
-[Page 1](page1.md)
+[Page 1](page#1.md)
 
 ## Hobbies
-[Page 2](page2.md)
+[Page 2](page#2.md)
 
 ## Travel
-[Page 3](page3.md)
+[Page 3](page#3.md)
 
 ## Favorites
-[Page 4](page4.md)
+[Page 4](page#4.md)
