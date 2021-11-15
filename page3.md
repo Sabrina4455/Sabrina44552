@@ -4,7 +4,7 @@ One of my favorite things in the world is traveling! I have been to Canada, Mexi
 
 ## Cruising
 
-I have been on 34 cruises in my life. My favorite cruise line is Disney Cruise Line!
+I have been on 36 cruises in my life. My favorite cruise line is Disney Cruise Line!
 
 **Here is a  link to the Disney Cruise Line Website!**
 
