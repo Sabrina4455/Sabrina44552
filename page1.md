@@ -8,7 +8,7 @@ Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am maj
 ![mizzou](https://user-images.githubusercontent.com/89413296/138403489-be616a6a-8a57-49c2-bc36-ad4cf3ad1968.PNG)
 
 
-## Vector Images 
+## Vector and Raster Images 
 
 Something I learned this year was the difference between a vector image and a raster image.
 
